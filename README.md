@@ -2,6 +2,6 @@
 
 This web application allows users  to browse through millions of delicious recipes.
 
-Stack used: React and the Edamam API.
+Utilized: React, JavaScript, HTML/CSS, Git.
 
 Created by Prajit Panday.
