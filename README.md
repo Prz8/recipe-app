@@ -2,6 +2,8 @@
 
 This web application allows users  to browse through dozens of delicious recipes.
 
+https://prz8.github.io/recipe-app/
+
 ## Stack
 `React`, `JavaScript`, `HTML/CSS`
 
