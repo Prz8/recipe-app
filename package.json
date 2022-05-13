@@ -1,5 +1,5 @@
 {
-  "name": "projectreact",
+  "name": "recipe-app",
   "homepage": "https://masontdaniel.github.io/recipe-app",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +37,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [],
+  "description": "Shows you dozens of recipes."
 }
