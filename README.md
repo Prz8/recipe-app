@@ -2,6 +2,9 @@
 
 This web application allows users  to browse through millions of delicious recipes.
 
-Utilized: React, JavaScript, HTML/CSS, Git.
+## Utilized
+React, JavaScript, HTML/CSS, Git.
 
-Created by Prajit Panday.
+## Author
+<a href="https://github.com/Prz8"> Prajit Panday </a>
+
